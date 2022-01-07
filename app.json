@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "face-bio",
+    "slug": "face-bio",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "face-bio"
+}
